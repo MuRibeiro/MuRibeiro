@@ -18,6 +18,8 @@ Caso deseja contatar por e-mail: **mucostaribeiro@gmail.com**
 <h2 align=center>Linguagens e Ferramentas:</h2>
 
 <div style=inline align=center>
+  
+  <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img width=70px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
